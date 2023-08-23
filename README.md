@@ -3,7 +3,7 @@
 <p align="center">Seja bem-vindo ao Guia de atualização do n8n, nodejs e quepasa 🚀</p>
 </p>
   
-<p align="left">
+<p align="center">
 <img src="https://whatsapp.com/favicon.ico" alt="WhatsAPP-logo" width="32" />
 <span>Grupo WhatsaAPP: </span>
 <a href="https://link.cwmkt.com.br/grupo-whats" target="_blank">Grupo</a>
@@ -151,5 +151,4 @@ Aproveite e segue a gente nas redes sociais:
 [CWMKT White Label](https://cwmkt.com.br/)
 
 [Grupo Oficial no Zap](https://link.cwmkt.com.br/grupo-whats/)
-[Canal Oficial no Youtube](https://link.cwmkt.com.br/canal-youtube)
 
