@@ -146,6 +146,7 @@ QuepasaAutomatic
 ChatwootToQuepasa
 
 ### Plataforma pronta pra uso! 😎🚀🚀
+
 Aproveite e segue a gente nas redes sociais:
 
 [CWMKT White Label](https://cwmkt.com.br/)
