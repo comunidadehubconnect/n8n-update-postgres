@@ -155,6 +155,13 @@ n8n-nodes-chatwoot
 ```bash
 n8n-nodes-quepasa
 ```
+
+Pegue a senha do postgres do Chatwoot em:
+
+```bash
+nano /home/chatwoot/chatwoot/.env
+```
+
 Acesse opção Credenciais, adicione suas credenciais Postgres, salve.
 
 ### Abra Worflows a seguir e clique em salvar, em cada um deles:
