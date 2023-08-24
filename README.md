@@ -63,6 +63,7 @@ sudo apt-get remove nodejs
 
 ```bash
 sudo apt-get purge nodejs
+```
 
 ```bash
 sudo apt-get autoremove
