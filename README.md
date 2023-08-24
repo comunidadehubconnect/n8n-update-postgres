@@ -21,12 +21,25 @@ sudo -i -u postgres psql
 ```
 
 ```bash
-CREATE ROLE n8n_user WITH LOGIN PASSWORD 'ColoqueUmaSenhaAqui';
+CREATE ROLE n8n_user WITH LOGIN PASSWORD 'SenhaAqui';
+```
+
+```bash
 CREATE DATABASE n8n_db;
+```
+
+```bash
 GRANT ALL PRIVILEGES ON DATABASE n8n_db TO n8n_user;
+```
+
+```bash
 GRANT CONNECT ON DATABASE n8n_db TO n8n_user;
+```
+
+```bash
 \q
 ```
+
 
 ### Remover base atual do Sqlite
 
