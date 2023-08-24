@@ -167,10 +167,15 @@ Acesse opção Credenciais, adicione suas credenciais Postgres, salve.
 ### Abra Worflows a seguir e clique em salvar, em cada um deles:
 
 GetChatwootContacts
+
 ChatwootProfileUpdate
+
 QuepasaToChatwoot
+
 QuepasaQrcode
+
 QuepasaAutomatic
+
 ChatwootToQuepasa
 
 ### Plataforma pronta pra uso! 😎🚀🚀
