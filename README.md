@@ -113,6 +113,10 @@ EXECUTIONS_DATA_PRUNE_MAX_COUNT=5000
 ```
 
 ```bash
+rm -rf .env
+```
+
+```bash
 ln -s ./.n8n/.env .env
 ```
 
