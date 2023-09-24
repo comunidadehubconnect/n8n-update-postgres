@@ -55,28 +55,6 @@ sudo mv /root/.n8n/.env /home
 rm -rf .n8n
 ```
 
-### Upgrade NodeJS para v18.x
-
-```bash
-sudo apt-get remove nodejs
-```
-
-```bash
-sudo apt-get purge nodejs
-```
-
-```bash
-sudo apt-get autoremove
-```
-
-```bash
-curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
-```
-
-```bash
-sudo apt-get install -y nodejs
-```
-
 ### Instalando última versão do n8n
 
 ```bash
@@ -179,10 +157,4 @@ QuepasaAutomatic
 ChatwootToQuepasa
 
 ### Plataforma pronta pra uso! 😎🚀🚀
-
-Aproveite e segue a gente nas redes sociais:
-
-[CWMKT White Label](https://cwmkt.com.br/)
-
-[Grupo Oficial no Zap](https://link.cwmkt.com.br/grupo-whats/)
 
